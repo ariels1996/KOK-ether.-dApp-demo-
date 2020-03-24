@@ -9,7 +9,7 @@ demo dApp like instagram
 Clone this repo via to your local machine and install the dependencies by doing the following:
 
 ```bash
-git clone git@github.com:ariels1996/kok-dapp-demo.git
+git clone git@github.com:ariels1996/KOK-dApp-demo.git
 cd kok
 npm install
 ```
